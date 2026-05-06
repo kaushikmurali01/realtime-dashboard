@@ -1,8 +1,7 @@
-# Realtime Collaborative Analytics Dashboard 📊
+# Realtime Collaborative Analytics Dashboard
 
 A multi-tenant analytics platform with real-time collaboration. Multiple users edit the same dashboards simultaneously, with sub-100ms WebSocket sync, live data streaming, and per-tenant data isolation enforced at the database level.
 
-[![CI](https://github.com/kaushikmurali01/realtime-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/kaushikmurali01/realtime-dashboard/actions)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue)](https://www.typescriptlang.org/)
 [![Node](https://img.shields.io/badge/Node-20+-green)](https://nodejs.org)
 
